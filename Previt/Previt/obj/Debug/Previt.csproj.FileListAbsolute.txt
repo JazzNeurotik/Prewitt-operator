@@ -1,0 +1,12 @@
+C:\Users\optim\source\repos\Previt\Previt\bin\Debug\Previt.exe.config
+C:\Users\optim\source\repos\Previt\Previt\bin\Debug\Previt.exe
+C:\Users\optim\source\repos\Previt\Previt\bin\Debug\Previt.pdb
+C:\Users\optim\source\repos\Previt\Previt\obj\Debug\Previt.csproj.AssemblyReference.cache
+C:\Users\optim\source\repos\Previt\Previt\obj\Debug\Previt.csproj.SuggestedBindingRedirects.cache
+C:\Users\optim\source\repos\Previt\Previt\obj\Debug\Previt.Form1.resources
+C:\Users\optim\source\repos\Previt\Previt\obj\Debug\Previt.Properties.Resources.resources
+C:\Users\optim\source\repos\Previt\Previt\obj\Debug\Previt.csproj.GenerateResource.cache
+C:\Users\optim\source\repos\Previt\Previt\obj\Debug\Previt.csproj.CoreCompileInputs.cache
+C:\Users\optim\source\repos\Previt\Previt\obj\Debug\Previt.exe
+C:\Users\optim\source\repos\Previt\Previt\obj\Debug\Previt.pdb
+C:\Users\optim\source\repos\Previt\Previt\obj\Debug\Previt.Form2.resources
